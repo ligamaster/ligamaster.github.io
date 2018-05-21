@@ -478,16 +478,6 @@ h6,
 #header1-1 .mbr-section-title {
   font-size: 60px;
 }
-#content5-4 .mbr-section-title,
-#content5-4 p {
-  color: #fff;
-}
-#content5-4 DIV {
-  color: #ffffff;
-}
-#content5-4 .mbr-section-title {
-  color: #ffffff;
-}
 #msg-box8-17 .mbr-section-title,
 #msg-box8-17 p {
   color: #fff;
@@ -527,31 +517,15 @@ h6,
 #testimonials1-i .card-block DIV {
   font-size: 14px;
 }
-#pricing-table2-8 .mbr-plan-header,
-#pricing-table2-8 .mbr-plan-body {
-  background-color: #f4f4f4;
+#content5-4 .mbr-section-title,
+#content5-4 p {
+  color: #fff;
 }
-#pricing-table2-8 ul,
-#pricing-table2-8 .mbr-plan-title,
-#pricing-table2-8 .mbr-price-value,
-#pricing-table2-8 .mbr-price-figure,
-#pricing-table2-8 .mbr-price-term {
-  color: #28262b;
+#content5-4 DIV {
+  color: #ffffff;
 }
-#pricing-table2-8 .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-8 .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-8 DIV {
-  color: #000000;
-}
-#pricing-table2-8 .mbr-plan-title {
-  font-size: 20px;
-}
-#pricing-table2-8 .mbr-section__container .mbr-section-title {
-  color: #cccccc;
+#content5-4 .mbr-section-title {
+  color: #ffffff;
 }
 #form1-16 .form-control-label {
   color: #232323;
